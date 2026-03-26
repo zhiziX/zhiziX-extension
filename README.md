@@ -4,7 +4,9 @@
 
 **智子X的核心能力依赖扩展提供的本地直连能力。安装扩展后，数据更安全、请求更快、能力更完整。扩展已上架 Chrome 与 Edge 商店。**
 
-<a  href="https://zhizix.com" target="_blank"><h1>访问智子X使用</h1></a>
+
+  [🚀前往智子X使用](https://zhizix.com)
+
 
 ## 二、如何安装？
 
