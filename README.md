@@ -20,17 +20,25 @@
 2. 点击"获取"
 
 ### 手动添加方法（ZIP），适用于所有浏览器
-**如果你无法访问扩展商店，可以下载 ZIP 压缩包，按下面 4 步手动安装。**
+
+> **如果你无法访问扩展商店，可以下载 ZIP 压缩包，按下面 4 步手动安装。**
 
 [点击下载 ZIP 浏览器扩展压缩包](https://github.com/zhiziX/zhiziX-extension/releases/download/zhiziX/zhizix-latest.zip)
 
-- 第1步：打开浏览器扩展管理页面
+> 第1步：打开浏览器扩展管理页面
+
 <img src="images/chrome-step-1.png" width="600">
-- 第2步：打开【开发者模式】按钮
+
+> 第2步：打开【开发者模式】按钮
+
 <img src="images/chrome-step-2.png" width="600">
-- 第3步：将下载好的压缩包，拖进浏览器扩展管理页面
+
+> 第3步：将下载好的压缩包，拖进浏览器扩展管理页面
+
 <img src="images/chrome-step-3.png" width="600">
-- 第4步：打开扩展程序，将智子X固定在工具栏
+
+> 第4步：打开扩展程序，将智子X固定在工具栏
+
 <img src="images/chrome-step-4.png" width="600">
 
 ## 三、为什么需要安装浏览器扩展？
