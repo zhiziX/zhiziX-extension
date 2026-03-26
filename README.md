@@ -4,7 +4,9 @@
 
 **智子X的核心能力依赖扩展提供的本地直连能力。安装扩展后，数据更安全、请求更快、能力更完整。扩展已上架 Chrome 与 Edge 商店。**
 
-## 六、如何安装？
+<a  href="https://zhizix.com" target="_blank"><h1>访问智子X使用</h1></a>
+
+## 二、如何安装？
 
 ### Chrome浏览器
 1. 访问 [Chrome Web Store](https://chromewebstore.google.com/detail/%E6%99%BA%E5%AD%90x/kkikcckpibabkmpghjgadakjmgbcfmpp)
@@ -18,7 +20,7 @@
 ### 手动添加方法（ZIP），适用于所有浏览器
 **如果你无法访问扩展商店，可以下载 ZIP 压缩包，按下面 4 步手动安装。**
 
-[点击下载 ZIP 浏览器扩展压缩包](extension/zhizix-latest.zip)
+[点击下载 ZIP 浏览器扩展压缩包](https://github.com/zhiziX/zhiziX-extension/releases/download/zhiziX/zhizix-latest.zip)
 
 - 第1步：打开浏览器扩展管理页面
 <img src="images/chrome-step-1.png" width="600">
@@ -29,7 +31,7 @@
 - 第4步：打开扩展程序，将智子X固定在工具栏
 <img src="images/chrome-step-4.png" width="600">
 
-## 一、为什么需要安装浏览器扩展？
+## 三、为什么需要安装浏览器扩展？
 
 智子X的核心功能依赖浏览器扩展运行。安装扩展后，你将获得：
 
@@ -42,7 +44,7 @@
 
 ---
 
-## 二、哪些功能需要扩展？
+## 四、哪些功能需要扩展？
 
 
 | 功能模块 | 是否必需扩展 | 说明 |
@@ -55,7 +57,7 @@
 
 ---
 
-## 三、扩展做什么？
+## 五、扩展做什么？
 
 智子X扩展承担三大职责：
 
@@ -84,7 +86,7 @@
 
 ---
 
-## 四、为什么不用服务器代理？
+## 六、为什么不用服务器代理？
 
 很多平台会让你的请求先经过他们的服务器，看起来方便，但有致命问题：
 
